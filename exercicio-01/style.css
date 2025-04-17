@@ -1,0 +1,13 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray;
+    text-align: center;
+    background-color: antiquewhite;
+}
+ul{
+    text-align: left;
+    position: relative;
+    left: 33.333%;
+    list-style: square;
+    
+}

@@ -1,0 +1,14 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+/* a{
+    border: 2px solid darkslategray;
+} */
+
+img{
+    border: 2px solid darkslategray;
+}

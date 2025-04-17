@@ -1,0 +1,19 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.espacamento{
+    margin: 40px;
+    padding: 20px;
+}
+
+.p-cinza{
+    background-color: #F5F5F5;
+}
+
+.p-colorido{
+    background-color: #F0CCE2;
+    }
